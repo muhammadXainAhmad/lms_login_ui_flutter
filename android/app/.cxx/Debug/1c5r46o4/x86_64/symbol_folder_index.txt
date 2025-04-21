@@ -1,0 +1,1 @@
+C:\DevSoftwares\FlutterSdk\projects\lms_login_ui\build\app\intermediates\cxx\Debug\1c5r46o4\obj\x86_64
